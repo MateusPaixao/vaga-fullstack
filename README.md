@@ -21,4 +21,4 @@ Realizado deploy da api na AWS:
 http://18.220.105.29/poke_api/pokemon/
 
 Para Rodar A API localmente utilizar um servidor de aplicação (apache)
-e subir banco de dados MySQL
+e subir banco de dados MySQL (dados: Dump_Poke.sql)
